@@ -11,12 +11,12 @@ Ein simples Programm, was ein Fenster erstellt und einen Kreis in die Mitte zeic
 
 
 ```bash
-~$ git clone https://github.com/Toby-Fm/smfl_linux.git
-~$ cd smfl_linux
+git clone https://github.com/Toby-Fm/smfl_linux_template.git
+cd smfl_linux_template
 ```
 
 ```bash
-~$ make linux-install
-~$ make
-~$ ./main
+make linux-install
+make
+./main
 ```
